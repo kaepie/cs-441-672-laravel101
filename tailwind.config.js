@@ -17,6 +17,9 @@ export default {
             gridTemplateColumns: {
                 'layout': '1fr 4.75fr',
             },
+            color: {
+                'red': '#d60017',
+            },
         },
     },
 
